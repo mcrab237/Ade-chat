@@ -1,6 +1,8 @@
 import React from 'react'
 import "./Home.css"
 import image from "./img.png"
+import Section1 from './Sections/Section1'
+import Section2 from './Sections/Section2'
 function Home() {
   return (
     <div className='container'>
@@ -12,6 +14,9 @@ function Home() {
                 <button className="color2">HOW IT WORKS</button>
             </div>
         </div>
+        <Section2/>
+
+        <Section1 imageUrl={image} imageAlt="iam ato" description="This is the best description"/>
     </div>
   )
 }

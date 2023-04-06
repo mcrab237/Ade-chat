@@ -24,13 +24,13 @@ function Navbar({clicked, isClicked}) {
           </NavLink>
         </li>
         <li className="NavElements">
-          <NavLink className="Link" to="/about-us">
-            About Us
+          <NavLink className="Link" to="/gallery">
+            Gallery
           </NavLink>
         </li>
         <li className="NavElements">
-          <NavLink className="Link" to="/contact-us">
-            Contact Us
+          <NavLink className="Link" to="/about-us">
+            About Us
           </NavLink>
         </li>
 

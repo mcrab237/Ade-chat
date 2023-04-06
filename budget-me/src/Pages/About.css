@@ -1,0 +1,32 @@
+.about-us {
+    text-align: center;
+    padding: 16px;
+  }
+  
+  .creator-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .creator {
+    margin: 16px;
+    width: 150px;
+  }
+  
+  .creator img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .creator h3 {
+    margin-top: 8px;
+    font-size: 18px;
+  }
+  
+  .creator p {
+    font-size: 14px;
+    color: #666;
+  }
+  
