@@ -5,9 +5,9 @@ import img4 from '../Images/image19.JPG'
 import img5 from '../Images/image20.jpeg'
 
 const creators = [
-  { image: img3, name: 'John Doe', role: 'CEO & Founder' },
-  { image: img4, name: 'Jane Smith', role: 'CTO' },
-  { image: img5, name: 'David Brown', role: 'Designer' },
+  { image: img3, name: 'Tony-Bradley Ade Fru-Asoh', role: 'Developer' },
+  { image: img4, name: 'Carine Tanka', role: 'Technical editor' },
+  { image: img5, name: 'Ngulefac Agendia', role: 'Designer' },
 ];
 
 function About() {
